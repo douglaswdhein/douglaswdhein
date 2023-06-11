@@ -9,7 +9,7 @@ Full Stack Developer
 
 Hello! I'm Douglas, a professional working as a real estate broker, but also venturing into the world of development, an area that has always piqued my interest.
 
-I have a technical background in computer science and I am a full stack developer. Recently, I completed a degree in real estate transactions, further expanding my expertise in the real estate market.
+I have a technical background in IT and I am a full stack developer. Recently, I completed a degree in real estate transactions, further expanding my expertise in the real estate market.
 
 I'm passionate about technology, and I believe that the combination of this passion with my proactive, dedicated, and hardworking nature allows me to explore various professional fields with diligence.
 
