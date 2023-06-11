@@ -16,3 +16,13 @@ I'm passionate about technology, and I believe that the combination of this pass
 As a real estate broker, I am accustomed to dealing with challenges and seeking efficient solutions for my clients' needs. My development experience provides me with a creative and innovative approach to finding technological solutions.
 
 I am always seeking learning and improvement, striving to stay updated with the latest trends and technologies. I have developed communication skills, which allow me to interact effectively with clients, colleagues, and multidisciplinary teams.
+
+
+Technologies:
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+
