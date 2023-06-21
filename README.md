@@ -7,14 +7,11 @@ Full Stack Developer
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Dhein-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-dhein-08359227a/)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
 [![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
 
-I’m a professional working as a real estate broker, but I also venture into the world of development, an
-area that has always sparked my interest and that I intend to rejoin. I have a technical background in
-IT from the Instituto Ivoti and I’m a certified full stack developer from the Starter Program by Growdev,
-a startup with the purpose of training new developers. In this program, I had the opportunity to learn
-everything from basic to advanced concepts of each technology used. Recently, I completed a degree
-in real estate transactions, further expanding my expertise in the real estate market, and I’m currently
-pursuing a degree in analysis and systems development at Unisinos university, with the aim of further
-expanding my knowledge in the world of technology.
+I’m a professional working as a real estate broker, but I also venture into the world of development, an area that has always sparked my interest and that I intend to rejoin. 
+
+I have a technical background in IT from the Instituto Ivoti and I’m a certified full stack developer from the Starter Program by Growdev, a startup with the purpose of training new developers. 
+
+In this program, I had the opportunity to learn everything from basic to advanced concepts of each technology used. Recently, I completed a degree in real estate transactions, further expanding my expertise in the real estate market, and I’m currently pursuing a degree in analysis and systems development at Unisinos university, with the aim of further expanding my knowledge in the world of technology.
 
 
 Technologies:
