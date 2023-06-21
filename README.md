@@ -9,11 +9,11 @@ Full Stack Developer
 
 I’m a professional working as a real estate broker, but I also venture into the world of development, an
 area that has always sparked my interest and that I intend to rejoin. I have a technical background in
-IT from the Ins0tuto Ivo0 and I’m a cer0fied full stack developer from the Starter Program by Growdev,
+IT from the Instituto Ivoti and I’m a certified full stack developer from the Starter Program by Growdev,
 a startup with the purpose of training new developers. In this program, I had the opportunity to learn
 everything from basic to advanced concepts of each technology used. Recently, I completed a degree
-in real estate transac0ons, further expanding my exper0se in the real estate market, and I’m currently
-pursuing a degree in analysis and systems development at Unisinos University, with the aim of further
+in real estate transactions, further expanding my expertise in the real estate market, and I’m currently
+pursuing a degree in analysis and systems development at Unisinos university, with the aim of further
 expanding my knowledge in the world of technology.
 
 
