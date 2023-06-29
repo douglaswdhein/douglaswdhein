@@ -7,19 +7,18 @@
 
 ![image](https://img.shields.io/badge/HTML-0e1116?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-0e1116?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-0e1116?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/Material--UI-0e1116?style=for-the-badge&logo=material-ui&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-0e1116?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Redux-0e1116?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/React-0e1116?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-0e1116?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-0e1116?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/React-0e1116?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-0e1116?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 <br><p>Get in touch</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-171515f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Dhein-171515f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-dhein-08359227a/)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
-[![Instagram Badge](https://img.shields.io/badge/-@douglasdhein-171515f?style=flat-square&labelColor=171515f&logo=instagram&logoColor=white&link=https://instagram.com/douglasdhein)](https://instagram.com/douglasdhein)
-[![Twitter Badge](https://img.shields.io/badge/-@douglasdhein-171515f?style=flat-square&labelColor=171515f&logo=twitter&logoColor=white&link=https://twitter.com/douglasdhein)](https://twitter.com/douglasdhein) 
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-0e1116?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglaswdhein@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e1116?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-0e1116?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douglasdhein)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-0e1116?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglasdhein) 
 
 
 
