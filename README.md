@@ -16,13 +16,14 @@
 
 <p>Get in touch</p>
 
+[![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-171515f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)<br>
 [![Instagram Badge](https://img.shields.io/badge/-@douglasdhein-171515f?style=flat-square&labelColor=171515f&logo=instagram&logoColor=white&link=https://instagram.com/douglasdhein)](https://instagram.com/douglasdhein)
 <br>
 [![Twitter Badge](https://img.shields.io/badge/-@douglasdhein-171515f?style=flat-square&labelColor=171515f&logo=twitter&logoColor=white&link=https://twitter.com/douglasdhein)](https://twitter.com/douglasdhein) 
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Dhein-171515f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-dhein-08359227a/)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
-<br>
-[![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-171515f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)
+
+
 
 
 
