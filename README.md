@@ -5,16 +5,16 @@
 <p>I have a degree in full stack development from the startup Growdev, a technical background in IT from the Ivoti Institute, and i'm currently pursuing a degree in analysis and systems development at Unisinos university.</p><br>
 <p>These are some of the technologies that i have knowledge:</p>
 
-![image](https://img.shields.io/badge/HTML-171515?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-171515?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-171515?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/Material--UI-171515?style=for-the-badge&logo=material-ui&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-171515?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Redux-171515?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/React-171515?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/JavaScript-171515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML-0e1116?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-0e1116?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-0e1116?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/Material--UI-0e1116?style=for-the-badge&logo=material-ui&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-0e1116?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/Redux-0e1116?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/React-0e1116?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-0e1116?style=for-the-badge&logo=javascript&logoColor=white)
 
-<p>Get in touch</p>
+<br><p>Get in touch</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-douglaswdhein@gmail.com-171515f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaswdhein@gmail.com)](mailto:douglaswdhein@gmail.com)<br>
 [![Instagram Badge](https://img.shields.io/badge/-@douglasdhein-171515f?style=flat-square&labelColor=171515f&logo=instagram&logoColor=white&link=https://instagram.com/douglasdhein)](https://instagram.com/douglasdhein)
