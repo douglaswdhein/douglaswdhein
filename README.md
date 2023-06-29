@@ -15,10 +15,10 @@
 
 <br><p>Get in touch</p>
 
-[![Gmail Badge](	https://img.shields.io/badge/Gmail-0e1116?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglaswdhein@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e1116?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-0e1116?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douglasdhein)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-0e1116?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglasdhein) 
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:douglaswdhein@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/douglasdhein)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/douglasdhein) 
 
 
 
