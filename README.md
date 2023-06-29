@@ -5,12 +5,12 @@
 <p>I have a degree in full stack development from the startup Growdev, a technical background in IT from the Ivoti Institute, and i'm currently pursuing a degree in analysis and systems development at Unisinos university.</p><br>
 <p>These are some of the technologies that i have knowledge:</p>
 
-![image](https://img.shields.io/badge/HTML-0e1116?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-0e1116?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-0e1116?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-0e1116?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/React-0e1116?style=for-the-badge&logo=react&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-0e1116?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black)
+![image](https://img.shields.io/badge/CSS-white?&style=for-the-badge&logo=css3&logoColor=black)
+![image](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![image](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black)
+![image](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black)
 
 
 <br><p>Get in touch</p>
