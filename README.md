@@ -1,9 +1,9 @@
 # Hello, my name is Douglas!
 
-<h3><u>I'm a web developer passionate about technology.</u></h3>
+<h3>I'm a web developer passionate about technology.</h3>
 <p>Currently, i work as a real estate agent, but i have recently resumed my studies in the field of development, which has always been of great interest to me and which i intend to return to.</p>
 <p>I have a degree in full stack development from the startup <a href="https://www.growdev.com.br/">Growdev</a>, a technical background in IT from the <a href="https://www.institutoivoti.com.br/">Ivoti Institute</a>, and i'm currently pursuing a degree in analysis and systems development at <a href="https://www.unisinos.br/">Unisinos</a> university.</p><br>
-<p><u>These are some of the technologies that i have knowledge:</u></p>
+<p>These are some of the technologies that i have knowledge:</p>
 
 ![image](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black)
 ![image](https://img.shields.io/badge/CSS-white?&style=for-the-badge&logo=css3&logoColor=black)
