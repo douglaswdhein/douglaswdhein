@@ -6,6 +6,8 @@
 
 #### I have a degree in full stack development from the <a href="https://www.growdev.com.br/">Growdev</a> startup, a technical background in IT from the <a href="https://www.institutoivoti.com.br/">Ivoti Institute</a>, and i'm currently pursuing a degree in analysis and systems development at <a href="https://www.unisinos.br/">Unisinos</a> university.
 
+<br />
+
 ## Technologies and tools
 
 ### Languages
@@ -23,6 +25,7 @@
 [![image](	https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&logoColor=black)](https://redux.js.org/)
 [![image](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black)](https://nodejs.org/en)
 
+<br />
 
 ## Get in touch
 
