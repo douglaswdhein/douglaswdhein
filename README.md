@@ -1,4 +1,4 @@
-# ⚪ Hello, my name is Douglas!
+# ➖ Hello, my name is Douglas!
 
 ## I'm a web developer passionate about technology.
 
