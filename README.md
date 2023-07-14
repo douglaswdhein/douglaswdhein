@@ -2,9 +2,9 @@
 
 ## I'm a web developer passionate about technology.
 
-# Currently, i work as a real estate broker, but i have recently resumed my studies in the field of web development, which has always been of great interest to me and which i intend to return to.
+#### Currently, i work as a real estate broker, but i have recently resumed my studies in the field of web development, which has always been of great interest to me and which i intend to return to.
 
-# I have a degree in full stack development from the <a href="https://www.growdev.com.br/">Growdev</a> startup, a technical background in IT from the <a href="https://www.institutoivoti.com.br/">Ivoti Institute</a>, and i'm currently pursuing a degree in analysis and systems development at <a href="https://www.unisinos.br/">Unisinos</a> university.
+#### I have a degree in full stack development from the <a href="https://www.growdev.com.br/">Growdev</a> startup, a technical background in IT from the <a href="https://www.institutoivoti.com.br/">Ivoti Institute</a>, and i'm currently pursuing a degree in analysis and systems development at <a href="https://www.unisinos.br/">Unisinos</a> university.
 
 ## Technologies and tools
 
