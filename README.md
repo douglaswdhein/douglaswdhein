@@ -1,4 +1,4 @@
-# Hello, my name is Douglas!
+# ⚪ Hello, my name is Douglas!
 
 ## I'm a web developer passionate about technology.
 
@@ -10,7 +10,7 @@
 
 <br />
 
-## Technologies and tools
+## 💻 Technologies and tools
 
 ### Languages
 
@@ -29,7 +29,7 @@
 
 <br />
 
-## Get in touch
+## 📱 Get in touch
 
 [![Gmail Badge](	https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:douglaswdhein@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
