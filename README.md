@@ -34,11 +34,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/douglasdhein)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/douglasdhein) 
 
-<br />
-
-## 📈 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=douglaswdhein&theme=default)
-
 
 
 
