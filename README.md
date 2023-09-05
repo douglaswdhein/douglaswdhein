@@ -1,6 +1,6 @@
 # ➖ Hello, my name is Douglas!
 
-## I'm a web developer passionate about technology.
+## I'm a frontend developer passionate about technology.
 
 <br />
 
