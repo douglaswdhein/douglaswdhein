@@ -3,6 +3,9 @@
 💻  Full Stack Developer at ...loading <br>
 🇧🇷  Rio Grande do Sul, Brazil
 
+<br>
+<br>
+
 ### 🛠 Languages and Tools:
 
 <p>
@@ -14,6 +17,9 @@
   <img height="35px" hspace="10px" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img height="35px" hspace="10px" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </p>
+
+<br>
+<br>
 
 ### 📱 Get in touch
 
