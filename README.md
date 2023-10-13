@@ -1,29 +1,21 @@
-# ➖ Hello, my name is Douglas!
+### 👋🏻 Hello, I'm Douglas!
 
-## I'm a frontend developer passionate about technology.
+💻  Full Stack Developer at ...loading <br>
+🇧🇷  Rio Grande do Sul, Brazil
 
-<br />
+### 🛠 Languages and Tools:
 
-## 💻 Technologies and tools
+<p>
+  <img height="35px" hspace="10px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="35px" hspace="10px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="35px" hspace="10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="35px" hspace="10px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="35px" hspace="10px" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="35px" hspace="10px" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img height="35px" hspace="10px" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</p>
 
-### Languages
-
-[![image](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![image](https://img.shields.io/badge/CSS-white?&style=for-the-badge&logo=css3&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![image](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![image](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/)
-
-### Libs & Frameworks
-
-[![image](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![image](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black)](https://getbootstrap.com/)
-[![image](https://img.shields.io/badge/Material--UI-white?style=for-the-badge&logo=material-ui&logoColor=black)](https://mui.com/)
-[![image](	https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&logoColor=black)](https://redux.js.org/)
-[![image](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black)](https://nodejs.org/en)
-
-<br />
-
-## 📱 Get in touch
+### 📱 Get in touch
 
 [![Gmail Badge](	https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:douglaswdhein@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/douglas-dhein-08359227a/) 
