@@ -2,7 +2,7 @@
 
 <br>
 
-💻  Full Stack Developer at ...loading <br>
+💻  Full Stack Developer at (loading...) <br>
 🇧🇷  Rio Grande do Sul, Brazil
 
 <br>
