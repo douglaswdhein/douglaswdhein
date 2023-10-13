@@ -5,6 +5,8 @@
 💻  Full Stack Developer at ...loading <br>
 🇧🇷  Rio Grande do Sul, Brazil
 
+<br>
+
 ### 🛠 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,6 +17,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<br>
 
 ### 📱 Get in touch
 
