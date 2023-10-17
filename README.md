@@ -5,7 +5,7 @@
 - 📍 Rio Grande do Sul, Brazil
 - 📚 Systems Analysis and Development Student at Unisinos
 - 🖥️ Feel free to checkout my [portfolio](https://douglasdhein.com/) website!
-- 💻 Software Development at (...loading)
+- 💻 Software Developer at (...loading)
 
 <br>
 
