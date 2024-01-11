@@ -11,7 +11,7 @@
 
 ## 🛠 Tools & Skills:
 
-### Languages & Preprocessors
+### Languages
 - HTML & CSS
 - JavaScript
 - TypeScript
