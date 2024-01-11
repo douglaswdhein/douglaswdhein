@@ -9,7 +9,17 @@
 
 <br>
 
+## 🛠 Tools & Skills:
 
+### Languages & Preprocessors
+- HTML & CSS
+- JavaScript
+- TypeScript
+
+### Frameworks & Libraries
+- React, Nextjs
+- Tailwind
+- Node.js
 
 
 
