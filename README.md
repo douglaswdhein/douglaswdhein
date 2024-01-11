@@ -17,7 +17,7 @@
 - TypeScript
 
 ### Frameworks & Libraries
-- React, Nextjs
+- React, Next.js
 - Tailwind
 - Node.js
 
